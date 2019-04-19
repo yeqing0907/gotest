@@ -16,6 +16,7 @@ const (
 	Male = 2
 )
 
+#main is the enter
 func main() {
 
 	var i = 1.5
